@@ -1,4 +1,4 @@
-# NBA Players Analysis (2000–2009)
+# NBA Players Analysis (2000–2009) 🏀📊
 
 ## 📄 Other Languages
 - 🇮🇷 [نسخه فارسی (Persian)](README_fa.md)
