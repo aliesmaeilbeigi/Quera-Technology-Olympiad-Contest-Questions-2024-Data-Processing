@@ -1,5 +1,8 @@
 # NBA Players Analysis (2000–2009)
 
+## 📄 Other Languages
+- 🇮🇷 [نسخه فارسی (Persian)](README_fa.md)
+
 ## Overview
 
 This project analyzes player performance in the NBA across ten seasons (2000–2009). The goal is to explore individual and team statistics, identify standout players, and derive insights from the dataset provided.
